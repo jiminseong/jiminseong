@@ -39,6 +39,11 @@
 
 ---
 
+## 📊 GitHub Stats
+![Jiminseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiminseong&show_icons=true&theme=radical)
+
+---
+
 ## 📬 Let's Connect
 - 📧 [iamjms4237@gmail.com](mailto:iamjms4237@gmail.com)
 - 📝 [Velog](https://velog.io/@jimycoidng)
