@@ -15,7 +15,7 @@
 - <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="20"/> **Mobile Development**: Flutter & Dart를 통한 크로스 플랫폼 앱 제작
 - <img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" width="20"/> **Backend Mastery**: Nest.js와 Express로 확장 가능한 서버 개발
 - <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="20"/> **Database Management**: SQL로 복잡한 데이터 모델 처리
-- <img src="https://cdn.simpleicons.org/amazons3/569A31" alt="AWS" width="20"/> **Cloud Savvy**: AWS Lambda, API Gateway, S3, CloudFront 등으로 클라우드 아키텍처 설계
+- <img src="https://cdn.simpleicons.org/amazon/569A31" alt="AWS" width="20"/> **Cloud Savvy**: AWS Lambda, API Gateway, S3, CloudFront 등으로 클라우드 아키텍처 설계
 
 ### 🎨 Creative Edge
 - <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="20"/> **Design Thinking**: Figma로 인터랙티브 프로토타입 제작
