@@ -12,16 +12,16 @@
 - <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="Javascript" width="20"/> **Javascript**: 깊이 있는 언어 이해 및 활용
 
 ### 🛠️ Broader Tech Ecosystem
-- <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="20"/> **Mobile Development**: Flutter & Dart를 통한 크로스 플랫폼 앱 제작
-- <img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" width="20"/> **Backend Mastery**: Nest.js와 Express로 확장 가능한 서버 개발
-- <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="20"/> **Database Management**: SQL로 복잡한 데이터 모델 처리
+- <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="20"/> **Flutter&Dart**: Flutter & Dart를 통한 크로스 플랫폼 앱 제작
+- <img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" width="20"/> **NestJS&Express**: Nest.js와 Express로 확장 가능한 서버 개발
+- <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="20"/> **Database Management**: SQL로 데이터 모델 처리
 - <img src="https://cdn.simpleicons.org/amazon/569A31" alt="AWS" width="20"/> **Cloud Savvy**: AWS Lambda, API Gateway, S3, CloudFront 등으로 클라우드 아키텍처 설계
 
 ### 🎨 Creative Edge
-- <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="20"/> **Design Thinking**: Figma로 인터랙티브 프로토타입 제작
-- <img src="https://cdn.simpleicons.org/notion/FFFFFF" alt="Notion" width="20"/> **Collaboration Tools**: Jira와 Notion으로 팀 생산성 극대화
-- <img src="https://cdn.simpleicons.org/jira/0052CC" alt="Jira" width="20"/> **Collaboration Tools**: Jira와 Notion으로 팀 생산성 극대화
-- <img src="https://cdn.simpleicons.org/vimeo/1AB7EA" alt="Vimeo" width="20"/> **Video Creation**: Vrew로 간결하고 설득력 있는 영상 제작
+- <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="20"/> **Figma**: Figma로 인터랙티브 프로토타입 제작
+- <img src="https://cdn.simpleicons.org/notion/FFFFFF" alt="Notion" width="20"/> **Notion**: Notion으로 팀 생산성 향상 및 개인 일정 관리
+- <img src="https://cdn.simpleicons.org/jira/0052CC" alt="Jira" width="20"/> **Jira**: Jira로 프로젝트 일정, 문서 관리 및 Github Actions를 활용한 자동화 구축
+- <img src="https://cdn.simpleicons.org/vimeo/1AB7EA" alt="Vimeo" width="20"/> **Vrew(Video Creation)**: Vrew로 간결하고 설득력 있는 영상 제작
 
 ---
 
