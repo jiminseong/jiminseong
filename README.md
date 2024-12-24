@@ -6,41 +6,40 @@
 ## 🌟 Unique Skills & Expertise
 
 ### 💻 Mastered Frontend
-- **React**: 컴포넌트 기반 아키텍처로 대규모 애플리케이션 구현
-- **Next.js**: 서버 사이드 렌더링 및 정적 사이트 생성
-- **Typescript**: 안정적인 코드 베이스 구축
-- **Javascript**: 깊이 있는 언어 이해 및 활용
+- ![React](https://cdn.simpleicons.org/react/61DAFB) **React**: 컴포넌트 기반 아키텍처로 대규모 애플리케이션 구현
+- ![Next.js](https://cdn.simpleicons.org/nextdotjs/000000) **Next.js**: 서버 사이드 렌더링 및 정적 사이트 생성
+- ![Typescript](https://cdn.simpleicons.org/typescript/3178C6) **Typescript**: 안정적인 코드 베이스 구축
+- ![Javascript](https://cdn.simpleicons.org/javascript/F7DF1E) **Javascript**: 깊이 있는 언어 이해 및 활용
 
 ### 🛠️ Broader Tech Ecosystem
-- **Mobile Development**: Flutter & Dart를 통한 크로스 플랫폼 앱 제작
-- **Backend Mastery**: Nest.js와 Express로 확장 가능한 서버 개발
-- **Database Management**: SQL로 복잡한 데이터 모델 처리
-- **Cloud Savvy**: AWS Lambda, API Gateway, S3, CloudFront 등으로 클라우드 아키텍처 설계
+- ![Flutter](https://cdn.simpleicons.org/flutter/02569B) **Mobile Development**: Flutter & Dart를 통한 크로스 플랫폼 앱 제작
+- ![NestJS](https://cdn.simpleicons.org/nestjs/E0234E) **Backend Mastery**: Nest.js와 Express로 확장 가능한 서버 개발
+- ![PostgreSQL](https://cdn.simpleicons.org/postgresql/4169E1) **Database Management**: SQL로 복잡한 데이터 모델 처리
+- ![AWS](https://cdn.simpleicons.org/amazons3/569A31) **Cloud Savvy**: AWS Lambda, API Gateway, S3, CloudFront 등으로 클라우드 아키텍처 설계
 
 ### 🎨 Creative Edge
-- **Design Thinking**: Figma로 인터랙티브 프로토타입 제작
-- **Collaboration Tools**: Jira와 Notion으로 팀 생산성 극대화
-- **Video Creation**: Vrew로 간결하고 설득력 있는 영상 제작
+- ![Figma](https://cdn.simpleicons.org/figma/F24E1E) **Design Thinking**: Figma로 인터랙티브 프로토타입 제작
+- ![Notion](https://cdn.simpleicons.org/notion/000000) **Collaboration Tools**: Jira와 Notion으로 팀 생산성 극대화
+- ![Vimeo](https://cdn.simpleicons.org/vimeo/1AB7EA) **Video Creation**: Vrew로 간결하고 설득력 있는 영상 제작
 
 ---
 
 ## 🛤️ My Development Journey
-- **Impactful Web Projects**: React와 Next.js로 고성능 웹 애플리케이션 개발
-- **Cloud Innovations**: AWS 기반 인프라 설계 및 구현
-- **Prototype Wizard**: Flutter로 빠르고 직관적인 모바일 프로토타입 제작
+- 🌟 **Impactful Web Projects**: React와 Next.js로 고성능 웹 애플리케이션 개발
+- ☁ **Cloud Innovations**: AWS 기반 인프라 설계 및 구현
+- 📱 **Prototype Wizard**: Flutter로 빠르고 직관적인 모바일 프로토타입 제작
 
 ---
 
 ## 🌌 Vision & Aspirations
 "기술은 문제를 해결하는 도구일 뿐 아니라, 인간의 상상력을 실현하는 플랫폼입니다."
-- 미래 기술 트렌드를 선도하는 개발자 되기
-- 사용자 중심의 제품 설계와 개발로 가치를 창출
-- 다양한 커뮤니티와 협업하며 지식 공유와 성장
+- 🚀 미래 기술 트렌드를 선도하는 개발자 되기
+- 💡 사용자 중심의 제품 설계와 개발로 가치를 창출
+- 🤝 다양한 커뮤니티와 협업하며 지식 공유와 성장
 
 ---
 
 ## 📬 Let's Connect
-- [iamjms4237@gmail.com](mailto:iamjms4237@gmail.com)
-- [Velog](https://velog.io/@jimycoidng)
-- [Youtube](https://www.youtube.com/@개발자일지도)
-
+- 📧 [iamjms4237@gmail.com](mailto:iamjms4237@gmail.com)
+- 📝 [Velog](https://velog.io/@jimycoidng)
+- 🎥 [Youtube](https://www.youtube.com/@개발자일지도)
