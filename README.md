@@ -7,7 +7,7 @@
 
 ### 💻 Mastered Frontend
 - <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="20"/> **React**: 컴포넌트 기반 아키텍처로 대규모 애플리케이션 구현
-- <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" width="20"/> **Next.js**: 서버 사이드 렌더링 및 정적 사이트 생성
+- <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="Next.js" width="20"/> **Next.js**: 서버 사이드 렌더링 및 정적 사이트 생성
 - <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="Typescript" width="20"/> **Typescript**: 안정적인 코드 베이스 구축
 - <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="Javascript" width="20"/> **Javascript**: 깊이 있는 언어 이해 및 활용
 
@@ -19,7 +19,7 @@
 
 ### 🎨 Creative Edge
 - <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="20"/> **Design Thinking**: Figma로 인터랙티브 프로토타입 제작
-- <img src="https://cdn.simpleicons.org/notion/000000" alt="Notion" width="20"/> **Collaboration Tools**: Jira와 Notion으로 팀 생산성 극대화
+- <img src="https://cdn.simpleicons.org/notion/FFFFFF" alt="Notion" width="20"/> **Collaboration Tools**: Jira와 Notion으로 팀 생산성 극대화
 - <img src="https://cdn.simpleicons.org/vimeo/1AB7EA" alt="Vimeo" width="20"/> **Video Creation**: Vrew로 간결하고 설득력 있는 영상 제작
 
 ---
