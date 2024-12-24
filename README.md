@@ -3,9 +3,9 @@
 
 ---
 
-## 🌟 Unique Skills & Expertise
+## 🌟 Skills & Expertise
 
-### 💻 Mastered Frontend
+### 💻 Frontend Skill
 - <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="20"/> **React**: 컴포넌트 기반 아키텍처로 대규모 애플리케이션 구현
 - <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="Next.js" width="20"/> **Next.js**: 서버 사이드 렌더링 및 정적 사이트 생성
 - <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="Typescript" width="20"/> **Typescript**: 안정적인 코드 베이스 구축
