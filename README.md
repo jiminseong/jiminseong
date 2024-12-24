@@ -39,12 +39,13 @@
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiminseong&show_icons=true&theme=radical" alt="Jiminseong's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiminseong&layout=compact&theme=radical" alt="Top Languages" width="48%" height="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jiminseong&show_icons=true&theme=radical" alt="Jiminseong's GitHub Stats" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiminseong&layout=compact&theme=radical" alt="Top Languages" height="200px" />
 </div>
+
 
 ---
 
