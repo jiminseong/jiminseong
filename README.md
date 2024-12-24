@@ -6,21 +6,21 @@
 ## 🌟 Unique Skills & Expertise
 
 ### 💻 Mastered Frontend
-- ![React](https://cdn.simpleicons.org/react/61DAFB) **React**: 컴포넌트 기반 아키텍처로 대규모 애플리케이션 구현
-- ![Next.js](https://cdn.simpleicons.org/nextdotjs/000000) **Next.js**: 서버 사이드 렌더링 및 정적 사이트 생성
-- ![Typescript](https://cdn.simpleicons.org/typescript/3178C6) **Typescript**: 안정적인 코드 베이스 구축
-- ![Javascript](https://cdn.simpleicons.org/javascript/F7DF1E) **Javascript**: 깊이 있는 언어 이해 및 활용
+- <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="20"/> **React**: 컴포넌트 기반 아키텍처로 대규모 애플리케이션 구현
+- <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" width="20"/> **Next.js**: 서버 사이드 렌더링 및 정적 사이트 생성
+- <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="Typescript" width="20"/> **Typescript**: 안정적인 코드 베이스 구축
+- <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="Javascript" width="20"/> **Javascript**: 깊이 있는 언어 이해 및 활용
 
 ### 🛠️ Broader Tech Ecosystem
-- ![Flutter](https://cdn.simpleicons.org/flutter/02569B) **Mobile Development**: Flutter & Dart를 통한 크로스 플랫폼 앱 제작
-- ![NestJS](https://cdn.simpleicons.org/nestjs/E0234E) **Backend Mastery**: Nest.js와 Express로 확장 가능한 서버 개발
-- ![PostgreSQL](https://cdn.simpleicons.org/postgresql/4169E1) **Database Management**: SQL로 복잡한 데이터 모델 처리
-- ![AWS](https://cdn.simpleicons.org/amazons3/569A31) **Cloud Savvy**: AWS Lambda, API Gateway, S3, CloudFront 등으로 클라우드 아키텍처 설계
+- <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="20"/> **Mobile Development**: Flutter & Dart를 통한 크로스 플랫폼 앱 제작
+- <img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" width="20"/> **Backend Mastery**: Nest.js와 Express로 확장 가능한 서버 개발
+- <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="20"/> **Database Management**: SQL로 복잡한 데이터 모델 처리
+- <img src="https://cdn.simpleicons.org/amazons3/569A31" alt="AWS" width="20"/> **Cloud Savvy**: AWS Lambda, API Gateway, S3, CloudFront 등으로 클라우드 아키텍처 설계
 
 ### 🎨 Creative Edge
-- ![Figma](https://cdn.simpleicons.org/figma/F24E1E) **Design Thinking**: Figma로 인터랙티브 프로토타입 제작
-- ![Notion](https://cdn.simpleicons.org/notion/000000) **Collaboration Tools**: Jira와 Notion으로 팀 생산성 극대화
-- ![Vimeo](https://cdn.simpleicons.org/vimeo/1AB7EA) **Video Creation**: Vrew로 간결하고 설득력 있는 영상 제작
+- <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="20"/> **Design Thinking**: Figma로 인터랙티브 프로토타입 제작
+- <img src="https://cdn.simpleicons.org/notion/000000" alt="Notion" width="20"/> **Collaboration Tools**: Jira와 Notion으로 팀 생산성 극대화
+- <img src="https://cdn.simpleicons.org/vimeo/1AB7EA" alt="Vimeo" width="20"/> **Video Creation**: Vrew로 간결하고 설득력 있는 영상 제작
 
 ---
 
