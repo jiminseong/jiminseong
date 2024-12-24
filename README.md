@@ -1,4 +1,4 @@
-# 🚀 Welcome to My Universe
+# 🚀 Welcome to My Github
 안녕하세요! 저는 단순한 개발을 넘어, 사용자의 삶을 더 나아지게 만드는 아이디어를 고안하고 구현하는 것을 즐깁니다!
 
 ---
