@@ -10,6 +10,7 @@
 - <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="Next.js" width="20"/> **Next.js**: 서버 사이드 렌더링 및 정적 사이트 생성
 - <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="Typescript" width="20"/> **Typescript**: 안정적인 코드 베이스 구축
 - <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="Javascript" width="20"/> **Javascript**: 깊이 있는 언어 이해 및 활용
+- <img src="https://cdn.simpleicons.org/jest/C31325" alt="Javascript" width="20"/> **Jest**: 단위 테스트 진행에 이용
 
 ### 🛠️ Broader Tech Ecosystem
 - <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="20"/> **Flutter&Dart**: Flutter & Dart를 통한 크로스 플랫폼 앱 제작
