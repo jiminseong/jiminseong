@@ -41,11 +41,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; width : 100%; gap:1em;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 1em;">
   <img src="https://github-readme-stats.vercel.app/api?username=jiminseong&show_icons=true&theme=radical" alt="Jiminseong's GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiminseong&layout=compact&theme=radical" alt="Top Languages" height="180px" />
 </div>
-
 
 ---
 
