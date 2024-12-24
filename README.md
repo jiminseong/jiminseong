@@ -20,6 +20,7 @@
 ### 🎨 Creative Edge
 - <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="20"/> **Design Thinking**: Figma로 인터랙티브 프로토타입 제작
 - <img src="https://cdn.simpleicons.org/notion/FFFFFF" alt="Notion" width="20"/> **Collaboration Tools**: Jira와 Notion으로 팀 생산성 극대화
+- <img src="https://cdn.simpleicons.org/jira/0052CC" alt="Jira" width="20"/> **Collaboration Tools**: Jira와 Notion으로 팀 생산성 극대화
 - <img src="https://cdn.simpleicons.org/vimeo/1AB7EA" alt="Vimeo" width="20"/> **Video Creation**: Vrew로 간결하고 설득력 있는 영상 제작
 
 ---
