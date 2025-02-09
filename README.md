@@ -53,4 +53,4 @@
 ## 📬 Let's Connect
 - 📧 [iamjms4237@gmail.com](mailto:iamjms4237@gmail.com)
 - 📝 [Velog](https://velog.io/@jimycoidng)
-- 🎥 [Youtube](https://www.youtube.com/@개발자일지도)
+- 📝 [Blog](https://jiminseong.com)
